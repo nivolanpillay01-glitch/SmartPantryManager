@@ -51,7 +51,7 @@ app/src/main/java/com/example/smartpantrymanager/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/nivolanpillay01-glitch/SmartPantryManager.git
+ 
    ```
 2. Open the project folder in **Android Studio** (Quail 4 or later recommended).
 3. Let Gradle sync complete (this may take a few minutes on first open).
@@ -59,6 +59,4 @@ app/src/main/java/com/example/smartpantrymanager/
 5. Click **Run ▶** with the emulator selected. The app launches directly into the Pantry List screen.
 6. No further configuration, API keys, or backend setup is required — the database is created and seeded automatically on first launch.
 
-## Author
 
-[YOUR NAME] — Mobile App Development 700 practical assignment.
